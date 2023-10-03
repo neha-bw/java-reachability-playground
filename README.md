@@ -1,3 +1,4 @@
+test
 12# Java Reachability Playground
 
 This is an intentionally vulnerable application. It was purposely designed to demonstrate the capabilities of Snyk's Reachable
